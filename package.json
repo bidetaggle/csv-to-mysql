@@ -1,0 +1,24 @@
+{
+  "name": "csv-to-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "csv-read": "^1.0.2",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bidetaggle/csv-to-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bidetaggle/csv-to-mysql/issues"
+  },
+  "homepage": "https://github.com/bidetaggle/csv-to-mysql#readme"
+}
